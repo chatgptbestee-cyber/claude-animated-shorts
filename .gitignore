@@ -1,0 +1,6 @@
+.venv/
+node_modules/
+raw/*
+!raw/.gitkeep
+done/*
+!done/.gitkeep
