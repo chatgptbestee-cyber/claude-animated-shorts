@@ -1,0 +1,116 @@
+{
+  "v1": {
+    "slug": "vergessen",
+    "audio": "Audio_1",
+    "phrases": [
+      "In einer Stunde ist die Hälfte von dem weg, was du gerade gelernt hast.",
+      "Und du merkst es nicht.",
+      "Der Trick:",
+      "Wiederhole es, kurz bevor du es vergisst.",
+      "Denn während du das hier hörst,",
+      "ist schon wieder etwas weg."
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "label": "GEDÄCHTNIS · 01"
+  },
+  "v2": {
+    "slug": "gesichter",
+    "audio": "Audio_2",
+    "phrases": [
+      "Schau dir mal eine Wolke an.",
+      "Siehst du ein Gesicht?",
+      "Das ist kein Zufall.",
+      "Dein Gehirn ist darauf trainiert, Gesichter zu finden,",
+      "auch wo keine sind.",
+      "Wolken,",
+      "Steckdosen,",
+      "Autos.",
+      "Und jetzt schau nochmal hin.",
+      "Ist das Gesicht noch da?"
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8
+    ],
+    "label": "WAHRNEHMUNG · 02"
+  },
+  "v3": {
+    "slug": "urlaub",
+    "audio": "Audio_3",
+    "phrases": [
+      "Woran erinnerst du dich vom letzten Urlaub?",
+      "Wahrscheinlich nicht an einen beliebigen Dienstag.",
+      "Dein Gedächtnis speichert vor allem den Anfang",
+      "und das Ende.",
+      "Und den stärksten Moment.",
+      "Der Rest verschwimmt.",
+      "Also: Woran erinnerst du dich vom letzten Urlaub?",
+      "Vielleicht nur an den Anfang."
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      4,
+      5,
+      6
+    ],
+    "label": "GEDÄCHTNIS · 03"
+  },
+  "v4": {
+    "slug": "erinnerung",
+    "audio": "Audio_4",
+    "phrases": [
+      "Jedes Mal, wenn du dich an etwas erinnerst, speicherst du es neu.",
+      "Dabei kann sich die Erinnerung verändern.",
+      "Ein Detail wird unscharf,",
+      "ein anderes kommt dazu.",
+      "Die Erinnerung, die du gerade hast, ist nicht mehr ganz dieselbe wie gestern.",
+      "Und jedes Mal, wenn du sie abrufst, verändert sie sich wieder."
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "label": "GEDÄCHTNIS · 04"
+  },
+  "v5": {
+    "slug": "traum",
+    "audio": "Audio_5",
+    "phrases": [
+      "Du wachst auf,",
+      "und der Traum war gerade noch da.",
+      "Nach ein paar Minuten ist er meist weg.",
+      "Dein Gedächtnis hält ihn nicht fest, wenn du nicht sofort daran denkst.",
+      "Also:",
+      "Wenn du aufwachst und noch weißt, wovon du geträumt hast, schreib es sofort auf.",
+      "Sonst ist er weg, bevor du „Du wachst auf“ denkst."
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "label": "SCHLAF · 05"
+  }
+}

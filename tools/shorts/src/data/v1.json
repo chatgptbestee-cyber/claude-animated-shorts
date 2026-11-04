@@ -1,0 +1,286 @@
+{
+ "key": "v1",
+ "slug": "vergessen",
+ "duration": 15.491,
+ "phrases": [
+  {
+   "text": "In einer Stunde ist die Hälfte von dem weg, was du gerade gelernt hast.",
+   "s": 0.12,
+   "e": 4.14,
+   "asr": "In einer Stunde ist die Hälfte von dem weg, was du gerade gelernt hast.",
+   "match": 1.0
+  },
+  {
+   "text": "Und du merkst es nicht.",
+   "s": 5.51,
+   "e": 6.98,
+   "asr": "und du merkst es nicht.",
+   "match": 1.0
+  },
+  {
+   "text": "Der Trick:",
+   "s": 7.92,
+   "e": 8.51,
+   "asr": "Der Trick",
+   "match": 1.0
+  },
+  {
+   "text": "Wiederhole es, kurz bevor du es vergisst.",
+   "s": 8.82,
+   "e": 11.54,
+   "asr": "Wiederhole es kurz bevor du es vergisst.",
+   "match": 1.0
+  },
+  {
+   "text": "Denn während du das hier hörst,",
+   "s": 11.98,
+   "e": 13.62,
+   "asr": "denn während du das hier hörst,",
+   "match": 1.0
+  },
+  {
+   "text": "ist schon wieder etwas weg.",
+   "s": 13.82,
+   "e": 15.27,
+   "asr": "ist schon wieder etwas weg.",
+   "match": 1.0
+  }
+ ],
+ "words": [
+  {
+   "w": "In",
+   "s": 0.12,
+   "e": 0.34,
+   "p": 0
+  },
+  {
+   "w": "einer",
+   "s": 0.34,
+   "e": 0.78,
+   "p": 0
+  },
+  {
+   "w": "Stunde",
+   "s": 0.78,
+   "e": 1.12,
+   "p": 0
+  },
+  {
+   "w": "ist",
+   "s": 1.12,
+   "e": 1.27,
+   "p": 0
+  },
+  {
+   "w": "die",
+   "s": 1.27,
+   "e": 1.46,
+   "p": 0
+  },
+  {
+   "w": "Hälfte",
+   "s": 1.46,
+   "e": 1.87,
+   "p": 0
+  },
+  {
+   "w": "von",
+   "s": 1.87,
+   "e": 2.12,
+   "p": 0
+  },
+  {
+   "w": "dem",
+   "s": 2.12,
+   "e": 2.39,
+   "p": 0
+  },
+  {
+   "w": "weg,",
+   "s": 2.39,
+   "e": 2.57,
+   "p": 0
+  },
+  {
+   "w": "was",
+   "s": 2.57,
+   "e": 2.8,
+   "p": 0
+  },
+  {
+   "w": "du",
+   "s": 2.8,
+   "e": 2.93,
+   "p": 0
+  },
+  {
+   "w": "gerade",
+   "s": 2.93,
+   "e": 3.49,
+   "p": 0
+  },
+  {
+   "w": "gelernt",
+   "s": 3.49,
+   "e": 3.91,
+   "p": 0
+  },
+  {
+   "w": "hast.",
+   "s": 3.91,
+   "e": 4.14,
+   "p": 0
+  },
+  {
+   "w": "Und",
+   "s": 5.51,
+   "e": 5.86,
+   "p": 1
+  },
+  {
+   "w": "du",
+   "s": 5.86,
+   "e": 6.15,
+   "p": 1
+  },
+  {
+   "w": "merkst",
+   "s": 6.15,
+   "e": 6.32,
+   "p": 1
+  },
+  {
+   "w": "es",
+   "s": 6.32,
+   "e": 6.74,
+   "p": 1
+  },
+  {
+   "w": "nicht.",
+   "s": 6.74,
+   "e": 6.98,
+   "p": 1
+  },
+  {
+   "w": "Der",
+   "s": 7.92,
+   "e": 8.16,
+   "p": 2
+  },
+  {
+   "w": "Trick:",
+   "s": 8.16,
+   "e": 8.51,
+   "p": 2
+  },
+  {
+   "w": "Wiederhole",
+   "s": 8.82,
+   "e": 9.61,
+   "p": 3
+  },
+  {
+   "w": "es,",
+   "s": 9.61,
+   "e": 9.95,
+   "p": 3
+  },
+  {
+   "w": "kurz",
+   "s": 9.95,
+   "e": 10.21,
+   "p": 3
+  },
+  {
+   "w": "bevor",
+   "s": 10.21,
+   "e": 10.55,
+   "p": 3
+  },
+  {
+   "w": "du",
+   "s": 10.55,
+   "e": 10.87,
+   "p": 3
+  },
+  {
+   "w": "es",
+   "s": 10.87,
+   "e": 11.15,
+   "p": 3
+  },
+  {
+   "w": "vergisst.",
+   "s": 11.15,
+   "e": 11.54,
+   "p": 3
+  },
+  {
+   "w": "Denn",
+   "s": 11.98,
+   "e": 12.16,
+   "p": 4
+  },
+  {
+   "w": "während",
+   "s": 12.16,
+   "e": 12.6,
+   "p": 4
+  },
+  {
+   "w": "du",
+   "s": 12.6,
+   "e": 12.88,
+   "p": 4
+  },
+  {
+   "w": "das",
+   "s": 12.88,
+   "e": 13.06,
+   "p": 4
+  },
+  {
+   "w": "hier",
+   "s": 13.06,
+   "e": 13.44,
+   "p": 4
+  },
+  {
+   "w": "hörst,",
+   "s": 13.44,
+   "e": 13.62,
+   "p": 4
+  },
+  {
+   "w": "ist",
+   "s": 13.82,
+   "e": 13.98,
+   "p": 5
+  },
+  {
+   "w": "schon",
+   "s": 13.98,
+   "e": 14.29,
+   "p": 5
+  },
+  {
+   "w": "wieder",
+   "s": 14.29,
+   "e": 14.73,
+   "p": 5
+  },
+  {
+   "w": "etwas",
+   "s": 14.73,
+   "e": 15.0,
+   "p": 5
+  },
+  {
+   "w": "weg.",
+   "s": 15.0,
+   "e": 15.27,
+   "p": 5
+  }
+ ],
+ "skipped": []
+}

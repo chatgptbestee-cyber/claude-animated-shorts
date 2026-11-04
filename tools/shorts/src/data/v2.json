@@ -1,0 +1,314 @@
+{
+ "key": "v2",
+ "slug": "gesichter",
+ "duration": 18.521,
+ "phrases": [
+  {
+   "text": "Schau dir mal eine Wolke an.",
+   "s": 0.14,
+   "e": 1.89,
+   "asr": "Schau dir mal eine Wolke an.",
+   "match": 1.0
+  },
+  {
+   "text": "Siehst du ein Gesicht?",
+   "s": 2.68,
+   "e": 3.79,
+   "asr": "Siehst du ein Gesicht?",
+   "match": 1.0
+  },
+  {
+   "text": "Das ist kein Zufall.",
+   "s": 5.29,
+   "e": 6.65,
+   "asr": "Das ist kein Zufall.",
+   "match": 1.0
+  },
+  {
+   "text": "Dein Gehirn ist darauf trainiert, Gesichter zu finden,",
+   "s": 7.11,
+   "e": 9.95,
+   "asr": "Dein Gehirn ist darauf trainiert, Gesichter zu finden.",
+   "match": 1.0
+  },
+  {
+   "text": "auch wo keine sind.",
+   "s": 10.31,
+   "e": 11.47,
+   "asr": "auch wo keine sind.",
+   "match": 1.0
+  },
+  {
+   "text": "Wolken,",
+   "s": 11.96,
+   "e": 12.37,
+   "asr": "Wolken.",
+   "match": 1.0
+  },
+  {
+   "text": "Steckdosen,",
+   "s": 12.84,
+   "e": 13.58,
+   "asr": "Steckdosen",
+   "match": 1.0
+  },
+  {
+   "text": "Autos.",
+   "s": 14.04,
+   "e": 14.69,
+   "asr": "Autos",
+   "match": 1.0
+  },
+  {
+   "text": "Und jetzt schau nochmal hin.",
+   "s": 15.2,
+   "e": 16.63,
+   "asr": "Und jetzt schauen nochmal hin.",
+   "match": 0.96
+  },
+  {
+   "text": "Ist das Gesicht noch da?",
+   "s": 17.15,
+   "e": 18.32,
+   "asr": "Ist das Gesicht noch da?",
+   "match": 1.0
+  }
+ ],
+ "words": [
+  {
+   "w": "Schau",
+   "s": 0.14,
+   "e": 0.31,
+   "p": 0
+  },
+  {
+   "w": "dir",
+   "s": 0.31,
+   "e": 0.68,
+   "p": 0
+  },
+  {
+   "w": "mal",
+   "s": 0.68,
+   "e": 0.83,
+   "p": 0
+  },
+  {
+   "w": "eine",
+   "s": 0.83,
+   "e": 1.31,
+   "p": 0
+  },
+  {
+   "w": "Wolke",
+   "s": 1.31,
+   "e": 1.58,
+   "p": 0
+  },
+  {
+   "w": "an.",
+   "s": 1.58,
+   "e": 1.89,
+   "p": 0
+  },
+  {
+   "w": "Siehst",
+   "s": 2.68,
+   "e": 2.99,
+   "p": 1
+  },
+  {
+   "w": "du",
+   "s": 2.99,
+   "e": 3.12,
+   "p": 1
+  },
+  {
+   "w": "ein",
+   "s": 3.12,
+   "e": 3.41,
+   "p": 1
+  },
+  {
+   "w": "Gesicht?",
+   "s": 3.41,
+   "e": 3.79,
+   "p": 1
+  },
+  {
+   "w": "Das",
+   "s": 5.29,
+   "e": 5.65,
+   "p": 2
+  },
+  {
+   "w": "ist",
+   "s": 5.65,
+   "e": 5.79,
+   "p": 2
+  },
+  {
+   "w": "kein",
+   "s": 5.79,
+   "e": 6.09,
+   "p": 2
+  },
+  {
+   "w": "Zufall.",
+   "s": 6.09,
+   "e": 6.65,
+   "p": 2
+  },
+  {
+   "w": "Dein",
+   "s": 7.11,
+   "e": 7.29,
+   "p": 3
+  },
+  {
+   "w": "Gehirn",
+   "s": 7.29,
+   "e": 7.81,
+   "p": 3
+  },
+  {
+   "w": "ist",
+   "s": 7.81,
+   "e": 7.95,
+   "p": 3
+  },
+  {
+   "w": "darauf",
+   "s": 7.95,
+   "e": 8.43,
+   "p": 3
+  },
+  {
+   "w": "trainiert,",
+   "s": 8.43,
+   "e": 8.77,
+   "p": 3
+  },
+  {
+   "w": "Gesichter",
+   "s": 8.77,
+   "e": 9.31,
+   "p": 3
+  },
+  {
+   "w": "zu",
+   "s": 9.31,
+   "e": 9.55,
+   "p": 3
+  },
+  {
+   "w": "finden,",
+   "s": 9.55,
+   "e": 9.95,
+   "p": 3
+  },
+  {
+   "w": "auch",
+   "s": 10.31,
+   "e": 10.54,
+   "p": 4
+  },
+  {
+   "w": "wo",
+   "s": 10.54,
+   "e": 10.79,
+   "p": 4
+  },
+  {
+   "w": "keine",
+   "s": 10.79,
+   "e": 11.15,
+   "p": 4
+  },
+  {
+   "w": "sind.",
+   "s": 11.15,
+   "e": 11.47,
+   "p": 4
+  },
+  {
+   "w": "Wolken,",
+   "s": 11.96,
+   "e": 12.37,
+   "p": 5
+  },
+  {
+   "w": "Steckdosen,",
+   "s": 12.84,
+   "e": 13.58,
+   "p": 6
+  },
+  {
+   "w": "Autos.",
+   "s": 14.04,
+   "e": 14.69,
+   "p": 7
+  },
+  {
+   "w": "Und",
+   "s": 15.2,
+   "e": 15.51,
+   "p": 8
+  },
+  {
+   "w": "jetzt",
+   "s": 15.51,
+   "e": 15.65,
+   "p": 8
+  },
+  {
+   "w": "schau",
+   "s": 15.65,
+   "e": 16.02,
+   "p": 8
+  },
+  {
+   "w": "nochmal",
+   "s": 16.02,
+   "e": 16.45,
+   "p": 8
+  },
+  {
+   "w": "hin.",
+   "s": 16.45,
+   "e": 16.63,
+   "p": 8
+  },
+  {
+   "w": "Ist",
+   "s": 17.15,
+   "e": 17.28,
+   "p": 9
+  },
+  {
+   "w": "das",
+   "s": 17.28,
+   "e": 17.49,
+   "p": 9
+  },
+  {
+   "w": "Gesicht",
+   "s": 17.49,
+   "e": 17.94,
+   "p": 9
+  },
+  {
+   "w": "noch",
+   "s": 17.94,
+   "e": 18.05,
+   "p": 9
+  },
+  {
+   "w": "da?",
+   "s": 18.05,
+   "e": 18.32,
+   "p": 9
+  }
+ ],
+ "skipped": []
+}
