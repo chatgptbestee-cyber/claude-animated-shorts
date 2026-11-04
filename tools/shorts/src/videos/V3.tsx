@@ -2,8 +2,8 @@ import React from 'react';
 import {C, Cam, clamp01, Data, Dust, GlowDefs, H, lerp, Pop, prog, sceneTimes, Scenes, Script, Shell, useT, W, wt} from '../common';
 
 const DAYS = ['MO', 'DI', 'MI', 'DO', 'FR', 'SA', 'SO'];
-const CX = (i: number) => 126 + i * 138;
-const CY = (i: number) => 860 + Math.abs(i - 3) * 22;
+const CX = (i: number) => 144 + i * 132;
+const CY = (i: number) => 880 + Math.abs(i - 3) ** 1.6 * 16;
 
 const Icon: React.FC<{i: number; x: number; y: number}> = ({i, x, y}) => {
   const s = {fill: 'none', stroke: C.ink, strokeWidth: 5, strokeLinecap: 'round' as const, strokeLinejoin: 'round' as const};
@@ -35,16 +35,17 @@ const Cards: React.FC<{st: (i: number) => CardState; graph?: number}> = ({st, gr
       <GlowDefs />
       {graph > 0 && (
         <g>
-          <polyline points={heights.slice(0, 7).map((h, i) => `${CX(i)},${640 - h * 180}`).join(' ')} fill="none" stroke={C.ink} strokeWidth={6}
+          <polyline points={heights.slice(0, 7).map((h, i) => `${CX(i)},${560 - h * 140}`).join(' ')} fill="none" stroke={C.ink} strokeWidth={6}
             strokeLinejoin="round" pathLength={1} strokeDasharray={1} strokeDashoffset={1 - graph} filter="url(#glow)" />
-          <circle cx={CX(3)} cy={640 - 180} r={16 + 6 * Math.sin(t * 6)} fill={C.accent} opacity={clamp01(graph * 2 - 1)} filter="url(#glowBig)" />
+          <circle cx={CX(3)} cy={560 - 140} r={16 + 6 * Math.sin(t * 6)} fill={C.accent} opacity={clamp01(graph * 2 - 1)} filter="url(#glowBig)" />
         </g>
       )}
-      {DAYS.map((day, i) => {
+      {DAYS.map((_, i) => i).sort((a, b) => st(a).hi + st(a).lift * 2 - (st(b).hi + st(b).lift * 2)).map((i) => {
+        const day = DAYS[i];
         const s = st(i);
-        const x = CX(i), y = CY(i) - s.lift * 140 + (1 - s.in) * 260;
-        const sc = 1.1 + 0.18 * s.hi + 0.1 * s.lift;
-        const rot = (i - 3) * 3 * (1 - s.lift);
+        const x = CX(i), y = CY(i) - s.lift * 220 + (1 - s.in) * 260;
+        const sc = 1.4 + 0.2 * s.hi + 0.1 * s.lift;
+        const rot = (i - 3) * 5 * (1 - s.lift);
         return (
           <g key={i} transform={`translate(${x} ${y}) rotate(${rot}) scale(${sc})`} opacity={s.in * (1 - 0.8 * s.dim)}
             style={{filter: s.blur > 0 ? `blur(${s.blur}px)` : undefined}}>
