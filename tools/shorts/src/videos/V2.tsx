@@ -95,7 +95,7 @@ const Simple: React.FC<{p: number}> = ({p}) => (
     <GlowDefs />
     <circle cx={450} cy={820} r={34} fill={C.ink} opacity={p} filter="url(#glow)" />
     <circle cx={630} cy={820} r={34} fill={C.ink} opacity={p} filter="url(#glow)" />
-    <path d="M 440 1000 L 640 1000" pathLength={1} stroke={C.ink} strokeWidth={18} strokeLinecap="round" style={dash(p * 1.2 - 0.2)} filter="url(#glow)" />
+    <path d="M 440 1000 L 640 1000" pathLength={1} stroke={C.ink} strokeWidth={18} strokeLinecap="round" style={dash(p * 1.2 - 0.2)} />
     <Brackets x={340} y={690} w={400} h={420} p={prog(p, 0.5, 1)} />
   </svg>
 );
