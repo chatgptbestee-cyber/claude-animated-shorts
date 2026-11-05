@@ -112,5 +112,151 @@
       6
     ],
     "label": "SCHLAF · 05"
+  },
+  "v6": {
+    "slug": "schirm",
+    "audio": "Schirm",
+    "label": "SCHIRM",
+    "phrases": [
+      "Es fängt an zu regnen.",
+      "Zwei Paare, nur ein Schirm.",
+      "Beim ersten Paar hält er ihn über sich.",
+      "„Hättest halt selbst einen mitgenommen.“",
+      "Beim zweiten Paar hält er ihn über sie.",
+      "Er wird nass.",
+      "Sie rückt näher.",
+      "Jetzt passen beide drunter.",
+      "Dann kommt der Sturm.",
+      "Links steht jeder allein da.",
+      "Rechts halten sie den Schirm zu zweit.",
+      "Liebe heißt nicht, trocken zu bleiben.",
+      "Sondern den Schirm zu teilen.",
+      "Teilst du den Schirm oder bleibst du trocken?",
+      "Denn irgendwann, ganz sicher…"
+    ],
+    "scenes": [
+      0,
+      2,
+      4,
+      8,
+      11,
+      13
+    ]
+  },
+  "v7": {
+    "slug": "tanz",
+    "audio": "Puzzle",
+    "label": "TANZ",
+    "phrases": [
+      "Die Musik fängt an.",
+      "Zwei Paare tanzen.",
+      "Beim ersten Paar will jeder führen.",
+      "Er zieht nach links, sie nach rechts.",
+      "Sie treten sich auf die Füße.",
+      "Beim zweiten Paar führt mal er, mal sie.",
+      "Wer stolpert, wird aufgefangen.",
+      "Dann wird die Musik schneller.",
+      "Links lassen sie los.",
+      "Rechts drehen sie sich weiter, im Takt.",
+      "Es geht nicht darum, wer führt.",
+      "Sondern dass ihr zusammen im Takt bleibt.",
+      "Willst du führen oder zusammen tanzen?",
+      "Hör mal…"
+    ],
+    "scenes": [
+      0,
+      2,
+      5,
+      7,
+      10,
+      12
+    ]
+  },
+  "v8": {
+    "slug": "rucksack",
+    "audio": "Rucksack",
+    "label": "RUCKSACK",
+    "phrases": [
+      "Jeder bringt einen Rucksack mit.",
+      "Zwei Paare, beide mit Gepäck aus der letzten Beziehung.",
+      "Beim ersten Paar bleibt er zu.",
+      "Bei jedem Streit kommt ein Stein dazu.",
+      "„Meine Ex hat das auch immer gesagt.“",
+      "Beim zweiten Paar packen sie aus.",
+      "„Das hat mich damals verletzt.“",
+      "„Ich bin nicht er.“",
+      "Dann geht es bergauf.",
+      "Links bleiben sie stehen.",
+      "Zu schwer.",
+      "Rechts gehen sie leicht weiter.",
+      "Dein Partner ist nicht deine Vergangenheit.",
+      "Packst du aus oder schleppst du weiter?",
+      "Denn eins ist sicher…"
+    ],
+    "scenes": [
+      0,
+      2,
+      5,
+      8,
+      12,
+      13
+    ]
+  },
+  "v9": {
+    "slug": "boot",
+    "audio": "Zweitens",
+    "label": "BOOT",
+    "phrases": [
+      "Ihr sitzt im selben Boot.",
+      "Zwei Paare, weit weg vom Ufer.",
+      "Beim ersten Paar rudert nur sie.",
+      "Er schaut aufs Handy.",
+      "„Du machst das doch gut.“",
+      "Das Boot dreht sich im Kreis.",
+      "Beim zweiten Paar hat jeder ein Ruder.",
+      "Ist sie müde, rudert er stärker.",
+      "Dann kommen die Wellen.",
+      "Links treibt das Boot ab.",
+      "Rechts kommen sie an.",
+      "Eine Beziehung kommt nicht voran, wenn nur einer rudert.",
+      "Rudert ihr beide oder nur einer?",
+      "Vergiss nicht…"
+    ],
+    "scenes": [
+      0,
+      2,
+      6,
+      8,
+      11,
+      12
+    ]
+  },
+  "v10": {
+    "slug": "puzzle",
+    "audio": "Musik",
+    "label": "PUZZLE",
+    "phrases": [
+      "Kein Puzzleteil passt sofort.",
+      "Zwei Paare, beide ganz verschieden.",
+      "Beim ersten Paar will sie ihn passend machen.",
+      "„Zieh das nicht an.“",
+      "Sie schneidet eine Ecke ab.",
+      "Dann noch eine.",
+      "Beim zweiten Paar drehen sie die Teile, bis sie ineinandergreifen.",
+      "Ein Jahr später.",
+      "Links passt es, aber er erkennt sich nicht wieder.",
+      "Rechts ist jeder noch er selbst.",
+      "Du musst niemanden zurechtschneiden, damit er zu dir passt.",
+      "Veränderst du deinen Partner oder suchst du, wie ihr passt?",
+      "Denn merk dir…"
+    ],
+    "scenes": [
+      0,
+      2,
+      6,
+      7,
+      10,
+      11
+    ]
   }
 }

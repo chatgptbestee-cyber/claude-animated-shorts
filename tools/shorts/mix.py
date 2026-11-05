@@ -110,6 +110,9 @@ def main():
     voice = load(voice_path)
     n = int(round(data["duration"] * SR))
     voice = np.pad(voice, (0, max(0, n - len(voice))))[:n]
+    # Bring every voiceover to the same level so the music sits the same under it.
+    act = voice[np.abs(voice) > 0.02]
+    voice = voice * (0.12 / (np.sqrt(np.mean(act ** 2)) + 1e-9))
 
     music = pad(n, seed=int(key[1:])) + pulse(n)
     # Duck the music under the voice (fast attack, slow release).
