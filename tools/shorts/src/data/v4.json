@@ -1,0 +1,352 @@
+{
+ "key": "v4",
+ "slug": "erinnerung",
+ "duration": 20.924,
+ "phrases": [
+  {
+   "text": "Jedes Mal, wenn du dich an etwas erinnerst, speicherst du es neu.",
+   "s": 0.15,
+   "e": 4.2,
+   "asr": "Jedes Mal, wenn du dich an etwas erinnerst, speicherst du es neu.",
+   "match": 1.0
+  },
+  {
+   "text": "Dabei kann sich die Erinnerung verändern.",
+   "s": 5.06,
+   "e": 7.23,
+   "asr": "Dabei kann sich die Erinnerung verändern.",
+   "match": 1.0
+  },
+  {
+   "text": "Ein Detail wird unscharf,",
+   "s": 8.23,
+   "e": 9.91,
+   "asr": "Ein Detail wird unscharf.",
+   "match": 1.0
+  },
+  {
+   "text": "ein anderes kommt dazu.",
+   "s": 10.27,
+   "e": 11.58,
+   "asr": "Ein anderes kommt dazu.",
+   "match": 1.0
+  },
+  {
+   "text": "Die Erinnerung, die du gerade hast, ist nicht mehr ganz dieselbe wie gestern.",
+   "s": 12.14,
+   "e": 16.49,
+   "asr": "Die Erinnerung, die du gerade hast, ist nicht mehr ganz dieselbe wie gestern.",
+   "match": 1.0
+  },
+  {
+   "text": "Und jedes Mal, wenn du sie abrufst, verändert sie sich wieder.",
+   "s": 17.0,
+   "e": 20.5,
+   "asr": "Und jedes Mal, wenn du sie abrufst, verändert sie sich wieder.",
+   "match": 1.0
+  }
+ ],
+ "words": [
+  {
+   "w": "Jedes",
+   "s": 0.15,
+   "e": 0.58,
+   "p": 0
+  },
+  {
+   "w": "Mal,",
+   "s": 0.58,
+   "e": 0.87,
+   "p": 0
+  },
+  {
+   "w": "wenn",
+   "s": 0.87,
+   "e": 1.14,
+   "p": 0
+  },
+  {
+   "w": "du",
+   "s": 1.14,
+   "e": 1.44,
+   "p": 0
+  },
+  {
+   "w": "dich",
+   "s": 1.44,
+   "e": 1.56,
+   "p": 0
+  },
+  {
+   "w": "an",
+   "s": 1.56,
+   "e": 1.84,
+   "p": 0
+  },
+  {
+   "w": "etwas",
+   "s": 1.84,
+   "e": 2.26,
+   "p": 0
+  },
+  {
+   "w": "erinnerst,",
+   "s": 2.26,
+   "e": 2.93,
+   "p": 0
+  },
+  {
+   "w": "speicherst",
+   "s": 2.93,
+   "e": 3.5,
+   "p": 0
+  },
+  {
+   "w": "du",
+   "s": 3.5,
+   "e": 3.75,
+   "p": 0
+  },
+  {
+   "w": "es",
+   "s": 3.75,
+   "e": 4.01,
+   "p": 0
+  },
+  {
+   "w": "neu.",
+   "s": 4.01,
+   "e": 4.2,
+   "p": 0
+  },
+  {
+   "w": "Dabei",
+   "s": 5.06,
+   "e": 5.44,
+   "p": 1
+  },
+  {
+   "w": "kann",
+   "s": 5.44,
+   "e": 5.64,
+   "p": 1
+  },
+  {
+   "w": "sich",
+   "s": 5.64,
+   "e": 5.83,
+   "p": 1
+  },
+  {
+   "w": "die",
+   "s": 5.83,
+   "e": 6.12,
+   "p": 1
+  },
+  {
+   "w": "Erinnerung",
+   "s": 6.12,
+   "e": 6.77,
+   "p": 1
+  },
+  {
+   "w": "verändern.",
+   "s": 6.77,
+   "e": 7.23,
+   "p": 1
+  },
+  {
+   "w": "Ein",
+   "s": 8.23,
+   "e": 8.6,
+   "p": 2
+  },
+  {
+   "w": "Detail",
+   "s": 8.6,
+   "e": 9.09,
+   "p": 2
+  },
+  {
+   "w": "wird",
+   "s": 9.09,
+   "e": 9.38,
+   "p": 2
+  },
+  {
+   "w": "unscharf,",
+   "s": 9.38,
+   "e": 9.91,
+   "p": 2
+  },
+  {
+   "w": "ein",
+   "s": 10.27,
+   "e": 10.44,
+   "p": 3
+  },
+  {
+   "w": "anderes",
+   "s": 10.44,
+   "e": 11.07,
+   "p": 3
+  },
+  {
+   "w": "kommt",
+   "s": 11.07,
+   "e": 11.26,
+   "p": 3
+  },
+  {
+   "w": "dazu.",
+   "s": 11.26,
+   "e": 11.58,
+   "p": 3
+  },
+  {
+   "w": "Die",
+   "s": 12.14,
+   "e": 12.43,
+   "p": 4
+  },
+  {
+   "w": "Erinnerung,",
+   "s": 12.43,
+   "e": 13.09,
+   "p": 4
+  },
+  {
+   "w": "die",
+   "s": 13.09,
+   "e": 13.22,
+   "p": 4
+  },
+  {
+   "w": "du",
+   "s": 13.22,
+   "e": 13.53,
+   "p": 4
+  },
+  {
+   "w": "gerade",
+   "s": 13.53,
+   "e": 13.98,
+   "p": 4
+  },
+  {
+   "w": "hast,",
+   "s": 13.98,
+   "e": 14.43,
+   "p": 4
+  },
+  {
+   "w": "ist",
+   "s": 14.43,
+   "e": 14.72,
+   "p": 4
+  },
+  {
+   "w": "nicht",
+   "s": 14.72,
+   "e": 14.95,
+   "p": 4
+  },
+  {
+   "w": "mehr",
+   "s": 14.95,
+   "e": 15.11,
+   "p": 4
+  },
+  {
+   "w": "ganz",
+   "s": 15.11,
+   "e": 15.31,
+   "p": 4
+  },
+  {
+   "w": "dieselbe",
+   "s": 15.31,
+   "e": 15.88,
+   "p": 4
+  },
+  {
+   "w": "wie",
+   "s": 15.88,
+   "e": 16.17,
+   "p": 4
+  },
+  {
+   "w": "gestern.",
+   "s": 16.17,
+   "e": 16.49,
+   "p": 4
+  },
+  {
+   "w": "Und",
+   "s": 17.0,
+   "e": 17.18,
+   "p": 5
+  },
+  {
+   "w": "jedes",
+   "s": 17.18,
+   "e": 17.65,
+   "p": 5
+  },
+  {
+   "w": "Mal,",
+   "s": 17.65,
+   "e": 17.91,
+   "p": 5
+  },
+  {
+   "w": "wenn",
+   "s": 17.91,
+   "e": 18.09,
+   "p": 5
+  },
+  {
+   "w": "du",
+   "s": 18.09,
+   "e": 18.36,
+   "p": 5
+  },
+  {
+   "w": "sie",
+   "s": 18.36,
+   "e": 18.55,
+   "p": 5
+  },
+  {
+   "w": "abrufst,",
+   "s": 18.55,
+   "e": 18.99,
+   "p": 5
+  },
+  {
+   "w": "verändert",
+   "s": 18.99,
+   "e": 19.65,
+   "p": 5
+  },
+  {
+   "w": "sie",
+   "s": 19.65,
+   "e": 19.81,
+   "p": 5
+  },
+  {
+   "w": "sich",
+   "s": 19.81,
+   "e": 20.18,
+   "p": 5
+  },
+  {
+   "w": "wieder.",
+   "s": 20.18,
+   "e": 20.5,
+   "p": 5
+  }
+ ],
+ "skipped": []
+}

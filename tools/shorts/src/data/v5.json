@@ -1,0 +1,389 @@
+{
+ "key": "v5",
+ "slug": "traum",
+ "duration": 21.473,
+ "phrases": [
+  {
+   "text": "Du wachst auf,",
+   "s": 0.13,
+   "e": 1.06,
+   "asr": "Du wachst auf?",
+   "match": 1.0
+  },
+  {
+   "text": "und der Traum war gerade noch da.",
+   "s": 1.39,
+   "e": 3.29,
+   "asr": "Und der Traum war gerade noch da.",
+   "match": 1.0
+  },
+  {
+   "text": "Nach ein paar Minuten ist er meist weg.",
+   "s": 4.13,
+   "e": 6.12,
+   "asr": "Nach ein paar Minuten ist der meist weg.",
+   "match": 0.99
+  },
+  {
+   "text": "Dein Gedächtnis hält ihn nicht fest, wenn du nicht sofort daran denkst.",
+   "s": 6.7,
+   "e": 10.48,
+   "asr": "Dein Gedächtnis hält ihn nicht fest, wenn du nicht sofort daran denkst.",
+   "match": 1.0
+  },
+  {
+   "text": "Also:",
+   "s": 11.39,
+   "e": 11.84,
+   "asr": "Also",
+   "match": 1.0
+  },
+  {
+   "text": "Wenn du aufwachst und noch weißt, wovon du geträumt hast, schreib es sofort auf.",
+   "s": 12.28,
+   "e": 17.36,
+   "asr": "Wenn du aufwachst und noch weißt, wovon du geträumt hast, schreib es sofort auf.",
+   "match": 1.0
+  },
+  {
+   "text": "Sonst ist er weg, bevor du „Du wachst auf“ denkst.",
+   "s": 17.87,
+   "e": 21.28,
+   "asr": "Sonst ist er weg, bevor du... Du wachst auf, denkst.",
+   "match": 1.0
+  }
+ ],
+ "words": [
+  {
+   "w": "Du",
+   "s": 0.13,
+   "e": 0.5,
+   "p": 0
+  },
+  {
+   "w": "wachst",
+   "s": 0.5,
+   "e": 0.68,
+   "p": 0
+  },
+  {
+   "w": "auf,",
+   "s": 0.68,
+   "e": 1.06,
+   "p": 0
+  },
+  {
+   "w": "und",
+   "s": 1.39,
+   "e": 1.66,
+   "p": 1
+  },
+  {
+   "w": "der",
+   "s": 1.66,
+   "e": 1.86,
+   "p": 1
+  },
+  {
+   "w": "Traum",
+   "s": 1.86,
+   "e": 2.03,
+   "p": 1
+  },
+  {
+   "w": "war",
+   "s": 2.03,
+   "e": 2.36,
+   "p": 1
+  },
+  {
+   "w": "gerade",
+   "s": 2.36,
+   "e": 2.86,
+   "p": 1
+  },
+  {
+   "w": "noch",
+   "s": 2.86,
+   "e": 3.14,
+   "p": 1
+  },
+  {
+   "w": "da.",
+   "s": 3.14,
+   "e": 3.29,
+   "p": 1
+  },
+  {
+   "w": "Nach",
+   "s": 4.13,
+   "e": 4.41,
+   "p": 2
+  },
+  {
+   "w": "ein",
+   "s": 4.41,
+   "e": 4.49,
+   "p": 2
+  },
+  {
+   "w": "paar",
+   "s": 4.49,
+   "e": 4.83,
+   "p": 2
+  },
+  {
+   "w": "Minuten",
+   "s": 4.83,
+   "e": 5.34,
+   "p": 2
+  },
+  {
+   "w": "ist",
+   "s": 5.34,
+   "e": 5.5,
+   "p": 2
+  },
+  {
+   "w": "er",
+   "s": 5.5,
+   "e": 5.76,
+   "p": 2
+  },
+  {
+   "w": "meist",
+   "s": 5.76,
+   "e": 5.84,
+   "p": 2
+  },
+  {
+   "w": "weg.",
+   "s": 5.84,
+   "e": 6.12,
+   "p": 2
+  },
+  {
+   "w": "Dein",
+   "s": 6.7,
+   "e": 6.99,
+   "p": 3
+  },
+  {
+   "w": "Gedächtnis",
+   "s": 6.99,
+   "e": 7.64,
+   "p": 3
+  },
+  {
+   "w": "hält",
+   "s": 7.64,
+   "e": 7.9,
+   "p": 3
+  },
+  {
+   "w": "ihn",
+   "s": 7.9,
+   "e": 8.05,
+   "p": 3
+  },
+  {
+   "w": "nicht",
+   "s": 8.05,
+   "e": 8.34,
+   "p": 3
+  },
+  {
+   "w": "fest,",
+   "s": 8.34,
+   "e": 8.66,
+   "p": 3
+  },
+  {
+   "w": "wenn",
+   "s": 8.66,
+   "e": 8.87,
+   "p": 3
+  },
+  {
+   "w": "du",
+   "s": 8.87,
+   "e": 9.13,
+   "p": 3
+  },
+  {
+   "w": "nicht",
+   "s": 9.13,
+   "e": 9.34,
+   "p": 3
+  },
+  {
+   "w": "sofort",
+   "s": 9.34,
+   "e": 9.71,
+   "p": 3
+  },
+  {
+   "w": "daran",
+   "s": 9.71,
+   "e": 10.25,
+   "p": 3
+  },
+  {
+   "w": "denkst.",
+   "s": 10.25,
+   "e": 10.48,
+   "p": 3
+  },
+  {
+   "w": "Also:",
+   "s": 11.39,
+   "e": 11.84,
+   "p": 4
+  },
+  {
+   "w": "Wenn",
+   "s": 12.28,
+   "e": 12.65,
+   "p": 5
+  },
+  {
+   "w": "du",
+   "s": 12.65,
+   "e": 12.94,
+   "p": 5
+  },
+  {
+   "w": "aufwachst",
+   "s": 12.94,
+   "e": 13.36,
+   "p": 5
+  },
+  {
+   "w": "und",
+   "s": 13.36,
+   "e": 13.64,
+   "p": 5
+  },
+  {
+   "w": "noch",
+   "s": 13.64,
+   "e": 13.93,
+   "p": 5
+  },
+  {
+   "w": "weißt,",
+   "s": 13.93,
+   "e": 14.27,
+   "p": 5
+  },
+  {
+   "w": "wovon",
+   "s": 14.27,
+   "e": 14.87,
+   "p": 5
+  },
+  {
+   "w": "du",
+   "s": 14.87,
+   "e": 15.18,
+   "p": 5
+  },
+  {
+   "w": "geträumt",
+   "s": 15.18,
+   "e": 15.63,
+   "p": 5
+  },
+  {
+   "w": "hast,",
+   "s": 15.63,
+   "e": 15.93,
+   "p": 5
+  },
+  {
+   "w": "schreib",
+   "s": 15.93,
+   "e": 16.33,
+   "p": 5
+  },
+  {
+   "w": "es",
+   "s": 16.33,
+   "e": 16.52,
+   "p": 5
+  },
+  {
+   "w": "sofort",
+   "s": 16.52,
+   "e": 16.99,
+   "p": 5
+  },
+  {
+   "w": "auf.",
+   "s": 16.99,
+   "e": 17.36,
+   "p": 5
+  },
+  {
+   "w": "Sonst",
+   "s": 17.87,
+   "e": 18.2,
+   "p": 6
+  },
+  {
+   "w": "ist",
+   "s": 18.2,
+   "e": 18.55,
+   "p": 6
+  },
+  {
+   "w": "er",
+   "s": 18.55,
+   "e": 18.78,
+   "p": 6
+  },
+  {
+   "w": "weg,",
+   "s": 18.78,
+   "e": 19.08,
+   "p": 6
+  },
+  {
+   "w": "bevor",
+   "s": 19.08,
+   "e": 19.53,
+   "p": 6
+  },
+  {
+   "w": "du",
+   "s": 19.53,
+   "e": 19.97,
+   "p": 6
+  },
+  {
+   "w": "„Du",
+   "s": 19.97,
+   "e": 20.41,
+   "p": 6
+  },
+  {
+   "w": "wachst",
+   "s": 20.41,
+   "e": 20.72,
+   "p": 6
+  },
+  {
+   "w": "auf“",
+   "s": 20.72,
+   "e": 21.03,
+   "p": 6
+  },
+  {
+   "w": "denkst.",
+   "s": 21.03,
+   "e": 21.28,
+   "p": 6
+  }
+ ],
+ "skipped": []
+}
