@@ -258,5 +258,171 @@
       10,
       11
     ]
+  },
+  "v11": {
+    "slug": "der-satz",
+    "audio": "aE",
+    "label": "",
+    "music": "piano",
+    "phrases": [
+      "„Schreib mir, wenn du angekommen bist.“",
+      "Diesen Satz hörst du hundertmal.",
+      "Nach der Party.",
+      "Nach der Klassenfahrt.",
+      "Nach dem ersten Date.",
+      "Du verdrehst die Augen und schreibst: „Ja.“",
+      "Ohne Punkt. Ohne Herz.",
+      "Was du nicht siehst: Mama liegt wach.",
+      "Das Licht im Flur bleibt an.",
+      "Bis das Handy vibriert.",
+      "Irgendwann wohnst du in einer anderen Stadt.",
+      "Irgendwann wartet niemand mehr auf diese Nachricht.",
+      "Aber noch ist sie da.",
+      "Und noch sagt sie ihn, diesen einen Satz:"
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  "v12": {
+    "slug": "juengeres-ich",
+    "audio": "a2",
+    "label": "",
+    "music": "piano",
+    "phrases": [
+      "Dein achtjähriges Ich wäre heute stolz auf dich.",
+      "Du bist jetzt so groß wie die, zu denen es immer hochgeschaut hat.",
+      "Du darfst aufbleiben, so lange du willst.",
+      "Du kannst Pizza zum Frühstück essen.",
+      "Niemand kann's dir verbieten.",
+      "Und trotzdem liegst du nachts wach und denkst, du bist nicht genug.",
+      "Dein achtjähriges Ich hat nie daran gezweifelt, dass aus dir was wird.",
+      "Es hat einfach an dich geglaubt.",
+      "Ganz ohne Beweis.",
+      "Also, wenn du heute zweifelst, denk dran:"
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  "v13": {
+    "slug": "fuenf-sekunden",
+    "audio": "a3",
+    "label": "",
+    "music": "piano",
+    "phrases": [
+      "Ein Nein dauert fünf Sekunden.",
+      "Die eine Person im Bus, die du nie angesprochen hast.",
+      "Die Nachricht, die du getippt und wieder gelöscht hast.",
+      "Das Probetraining, zu dem du nie gegangen bist.",
+      "Du dachtest, du schützt dich.",
+      "Vor einem Nein. Vor Peinlichkeit.",
+      "Aber das Nein wäre nach fünf Sekunden vorbei gewesen.",
+      "Das „Was wäre, wenn“ begleitet dich seit Jahren.",
+      "Also frag.",
+      "Schreib die Nachricht.",
+      "Geh hin.",
+      "Denn vergiss nicht:"
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "v14": {
+    "slug": "dienstag",
+    "audio": "a4",
+    "label": "",
+    "music": "piano",
+    "phrases": [
+      "Niemand postet den Dienstag.",
+      "Das Urlaubsfoto?",
+      "Versuch Nummer siebenundvierzig.",
+      "Das Pärchen mit dem Jahrestag-Post?",
+      "Hat sich auf der Hinfahrt gestritten.",
+      "Das Gym-Video?",
+      "Nach zwei Jahren, in denen keiner zugeschaut hat.",
+      "Und du liegst abends im Bett, scrollst durch die besten Momente von allen",
+      "und vergleichst sie mit deinem Dienstag.",
+      "Dein Leben ist nicht langweiliger.",
+      "Es ist nur nicht geschnitten.",
+      "Also vergiss nicht:"
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ]
+  },
+  "v15": {
+    "slug": "mathenote",
+    "audio": "a5",
+    "label": "",
+    "music": "piano",
+    "phrases": [
+      "Deine Mathenote wirst du vergessen.",
+      "In zehn Jahren weißt du nicht mehr, was in der Bio-Klausur drankam.",
+      "Aber du weißt noch, wer neben dir saß.",
+      "Wer dir in der Pause die Hälfte von seinem Brötchen gegeben hat.",
+      "Wer so lachen musste, dass ihr beide rausgeflogen seid.",
+      "Wer dir vor der Prüfung geschrieben hat: „Du schaffst das.“",
+      "Die Noten stehen in deinem Zeugnis.",
+      "Die Menschen nicht.",
+      "Die musst du dir selbst merken.",
+      "Und deine Mathenote?"
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
   }
 }

@@ -1,0 +1,498 @@
+{
+ "key": "v14",
+ "slug": "dienstag",
+ "duration": 27.167,
+ "phrases": [
+  {
+   "text": "Niemand postet den Dienstag.",
+   "s": 0.05,
+   "e": 2.0
+  },
+  {
+   "text": "Das Urlaubsfoto?",
+   "s": 2.39,
+   "e": 3.34
+  },
+  {
+   "text": "Versuch Nummer siebenundvierzig.",
+   "s": 3.64,
+   "e": 5.14
+  },
+  {
+   "text": "Das Pärchen mit dem Jahrestag-Post?",
+   "s": 5.48,
+   "e": 7.43
+  },
+  {
+   "text": "Hat sich auf der Hinfahrt gestritten.",
+   "s": 7.76,
+   "e": 9.26
+  },
+  {
+   "text": "Das Gym-Video?",
+   "s": 9.61,
+   "e": 10.5
+  },
+  {
+   "text": "Nach zwei Jahren, in denen keiner zugeschaut hat.",
+   "s": 10.83,
+   "e": 13.36
+  },
+  {
+   "text": "Und du liegst abends im Bett, scrollst durch die besten Momente von allen",
+   "s": 13.73,
+   "e": 17.67
+  },
+  {
+   "text": "und vergleichst sie mit deinem Dienstag.",
+   "s": 17.67,
+   "e": 19.52
+  },
+  {
+   "text": "Dein Leben ist nicht langweiliger.",
+   "s": 21.53,
+   "e": 23.33
+  },
+  {
+   "text": "Es ist nur nicht geschnitten.",
+   "s": 23.97,
+   "e": 25.21
+  },
+  {
+   "text": "Also vergiss nicht:",
+   "s": 25.75,
+   "e": 26.85
+  }
+ ],
+ "words": [
+  {
+   "w": "Niemand",
+   "s": 0.05,
+   "e": 0.62,
+   "p": 0
+  },
+  {
+   "w": "postet",
+   "s": 0.62,
+   "e": 1.09,
+   "p": 0
+  },
+  {
+   "w": "den",
+   "s": 1.09,
+   "e": 1.48,
+   "p": 0
+  },
+  {
+   "w": "Dienstag.",
+   "s": 1.48,
+   "e": 2.0,
+   "p": 0
+  },
+  {
+   "w": "Das",
+   "s": 2.39,
+   "e": 2.57,
+   "p": 1
+  },
+  {
+   "w": "Urlaubsfoto?",
+   "s": 2.57,
+   "e": 3.34,
+   "p": 1
+  },
+  {
+   "w": "Versuch",
+   "s": 3.64,
+   "e": 3.96,
+   "p": 2
+  },
+  {
+   "w": "Nummer",
+   "s": 3.96,
+   "e": 4.29,
+   "p": 2
+  },
+  {
+   "w": "siebenundvierzig.",
+   "s": 4.29,
+   "e": 5.14,
+   "p": 2
+  },
+  {
+   "w": "Das",
+   "s": 5.48,
+   "e": 5.79,
+   "p": 3
+  },
+  {
+   "w": "Pärchen",
+   "s": 5.79,
+   "e": 6.09,
+   "p": 3
+  },
+  {
+   "w": "mit",
+   "s": 6.09,
+   "e": 6.37,
+   "p": 3
+  },
+  {
+   "w": "dem",
+   "s": 6.37,
+   "e": 6.7,
+   "p": 3
+  },
+  {
+   "w": "Jahrestag-Post?",
+   "s": 6.7,
+   "e": 7.43,
+   "p": 3
+  },
+  {
+   "w": "Hat",
+   "s": 7.76,
+   "e": 7.88,
+   "p": 4
+  },
+  {
+   "w": "sich",
+   "s": 7.88,
+   "e": 8.17,
+   "p": 4
+  },
+  {
+   "w": "auf",
+   "s": 8.17,
+   "e": 8.28,
+   "p": 4
+  },
+  {
+   "w": "der",
+   "s": 8.28,
+   "e": 8.47,
+   "p": 4
+  },
+  {
+   "w": "Hinfahrt",
+   "s": 8.47,
+   "e": 8.81,
+   "p": 4
+  },
+  {
+   "w": "gestritten.",
+   "s": 8.81,
+   "e": 9.26,
+   "p": 4
+  },
+  {
+   "w": "Das",
+   "s": 9.61,
+   "e": 9.83,
+   "p": 5
+  },
+  {
+   "w": "Gym-Video?",
+   "s": 9.83,
+   "e": 10.5,
+   "p": 5
+  },
+  {
+   "w": "Nach",
+   "s": 10.83,
+   "e": 11.04,
+   "p": 6
+  },
+  {
+   "w": "zwei",
+   "s": 11.04,
+   "e": 11.2,
+   "p": 6
+  },
+  {
+   "w": "Jahren,",
+   "s": 11.2,
+   "e": 11.68,
+   "p": 6
+  },
+  {
+   "w": "in",
+   "s": 11.68,
+   "e": 11.93,
+   "p": 6
+  },
+  {
+   "w": "denen",
+   "s": 11.93,
+   "e": 12.18,
+   "p": 6
+  },
+  {
+   "w": "keiner",
+   "s": 12.18,
+   "e": 12.64,
+   "p": 6
+  },
+  {
+   "w": "zugeschaut",
+   "s": 12.64,
+   "e": 13.1,
+   "p": 6
+  },
+  {
+   "w": "hat.",
+   "s": 13.1,
+   "e": 13.36,
+   "p": 6
+  },
+  {
+   "w": "Und",
+   "s": 13.73,
+   "e": 13.89,
+   "p": 7
+  },
+  {
+   "w": "du",
+   "s": 13.89,
+   "e": 14.17,
+   "p": 7
+  },
+  {
+   "w": "liegst",
+   "s": 14.17,
+   "e": 14.47,
+   "p": 7
+  },
+  {
+   "w": "abends",
+   "s": 14.47,
+   "e": 14.81,
+   "p": 7
+  },
+  {
+   "w": "im",
+   "s": 14.81,
+   "e": 14.98,
+   "p": 7
+  },
+  {
+   "w": "Bett,",
+   "s": 14.98,
+   "e": 15.33,
+   "p": 7
+  },
+  {
+   "w": "scrollst",
+   "s": 15.33,
+   "e": 15.54,
+   "p": 7
+  },
+  {
+   "w": "durch",
+   "s": 15.54,
+   "e": 15.78,
+   "p": 7
+  },
+  {
+   "w": "die",
+   "s": 15.78,
+   "e": 16.04,
+   "p": 7
+  },
+  {
+   "w": "besten",
+   "s": 16.04,
+   "e": 16.48,
+   "p": 7
+  },
+  {
+   "w": "Momente",
+   "s": 16.48,
+   "e": 17.04,
+   "p": 7
+  },
+  {
+   "w": "von",
+   "s": 17.04,
+   "e": 17.21,
+   "p": 7
+  },
+  {
+   "w": "allen",
+   "s": 17.21,
+   "e": 17.67,
+   "p": 7
+  },
+  {
+   "w": "und",
+   "s": 17.67,
+   "e": 17.78,
+   "p": 8
+  },
+  {
+   "w": "vergleichst",
+   "s": 17.78,
+   "e": 18.3,
+   "p": 8
+  },
+  {
+   "w": "sie",
+   "s": 18.3,
+   "e": 18.45,
+   "p": 8
+  },
+  {
+   "w": "mit",
+   "s": 18.45,
+   "e": 18.66,
+   "p": 8
+  },
+  {
+   "w": "deinem",
+   "s": 18.66,
+   "e": 19.14,
+   "p": 8
+  },
+  {
+   "w": "Dienstag.",
+   "s": 19.14,
+   "e": 19.52,
+   "p": 8
+  },
+  {
+   "w": "Dein",
+   "s": 21.53,
+   "e": 21.76,
+   "p": 9
+  },
+  {
+   "w": "Leben",
+   "s": 21.76,
+   "e": 22.09,
+   "p": 9
+  },
+  {
+   "w": "ist",
+   "s": 22.09,
+   "e": 22.33,
+   "p": 9
+  },
+  {
+   "w": "nicht",
+   "s": 22.33,
+   "e": 22.55,
+   "p": 9
+  },
+  {
+   "w": "langweiliger.",
+   "s": 22.55,
+   "e": 23.33,
+   "p": 9
+  },
+  {
+   "w": "Es",
+   "s": 23.97,
+   "e": 24.1,
+   "p": 10
+  },
+  {
+   "w": "ist",
+   "s": 24.1,
+   "e": 24.28,
+   "p": 10
+  },
+  {
+   "w": "nur",
+   "s": 24.28,
+   "e": 24.6,
+   "p": 10
+  },
+  {
+   "w": "nicht",
+   "s": 24.6,
+   "e": 24.67,
+   "p": 10
+  },
+  {
+   "w": "geschnitten.",
+   "s": 24.67,
+   "e": 25.21,
+   "p": 10
+  },
+  {
+   "w": "Also",
+   "s": 25.75,
+   "e": 26.2,
+   "p": 11
+  },
+  {
+   "w": "vergiss",
+   "s": 26.2,
+   "e": 26.52,
+   "p": 11
+  },
+  {
+   "w": "nicht:",
+   "s": 26.52,
+   "e": 26.85,
+   "p": 11
+  }
+ ],
+ "asr": [
+  {
+   "s": 0.05,
+   "e": 2.0,
+   "text": "Niemand postet den Dienstag."
+  },
+  {
+   "s": 2.39,
+   "e": 3.34,
+   "text": "Das Urlaubsfoto?"
+  },
+  {
+   "s": 3.64,
+   "e": 5.14,
+   "text": "Versuch Nr. 47."
+  },
+  {
+   "s": 5.48,
+   "e": 7.43,
+   "text": "Das Pärchen mit dem Jahrestagpost?"
+  },
+  {
+   "s": 7.76,
+   "e": 9.26,
+   "text": "hat sich auf der Hinfahrt gestritten"
+  },
+  {
+   "s": 9.61,
+   "e": 10.5,
+   "text": "das Gimmvideo"
+  },
+  {
+   "s": 10.83,
+   "e": 13.36,
+   "text": "Nach zwei Jahren, in denen keiner zugeschaut hat."
+  },
+  {
+   "s": 13.73,
+   "e": 19.52,
+   "text": "Und du liegst abends im Bett, scrollst durch die besten Momente von allen und vergleichst sie mit deinem Dienstag."
+  },
+  {
+   "s": 21.53,
+   "e": 23.330000000000002,
+   "text": "Dein Leben ist nicht langweiliger."
+  },
+  {
+   "s": 23.97,
+   "e": 25.21,
+   "text": "Es ist nur nicht geschnitten."
+  },
+  {
+   "s": 25.75,
+   "e": 26.85,
+   "text": "Also vergiss nicht."
+  }
+ ]
+}

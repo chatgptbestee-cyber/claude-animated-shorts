@@ -94,6 +94,43 @@ def sub_hit():
     return (np.sin(2 * np.pi * np.cumsum(f) / SR) * np.exp(-tt * 4) * 0.6).astype(np.float32)
 
 
+def piano(n, seed=0):
+    """Soft arpeggiated piano-like bed (Am-F-C-G), with a short room reverb."""
+    rng = np.random.default_rng(seed)
+    chords = [[45, 57, 64, 69, 72, 76], [41, 53, 60, 65, 69, 72], [48, 55, 64, 67, 72, 76], [43, 55, 62, 67, 71, 74]]
+    order = [1, 2, 3, 4, 5, 4, 3, 2]
+    step, bar = 0.5, 4.0
+    out = np.zeros(n + SR * 3, np.float32)
+    L = int(2.6 * SR)
+    tt = np.arange(L) / SR
+    env = np.exp(-tt * 2.2) * (1 - np.exp(-tt * 300))
+    def note(m, vel, long=False):
+        f = 440 * 2 ** ((m - 69) / 12)
+        e = np.exp(-tt * (1.0 if long else 2.2)) * (1 - np.exp(-tt * 300))
+        w = sum(a * np.sin(2 * np.pi * f * k * tt) for k, a in ((1, 1.0), (2, 0.45), (3, 0.18), (4, 0.08)))
+        return (w * e * vel).astype(np.float32)
+    nb = int(np.ceil(n / SR / bar)) + 1
+    for b in range(nb):
+        ch = chords[(b + seed) % 4]
+        a0 = int(b * bar * SR)
+        if a0 >= n:
+            break
+        x = note(ch[0], 0.35, long=True)
+        out[a0:a0 + L] += x[:len(out) - a0][:L]
+        for j, o in enumerate(order):
+            a = int((b * bar + j * step) * SR)
+            if a >= n:
+                break
+            x = note(ch[o], 0.16 * (0.85 + 0.3 * rng.random()))
+            out[a:a + L] += x[:len(out[a:a + L])]
+    out = out[:n]
+    ir_len = int(1.2 * SR)
+    ir = (rng.standard_normal(ir_len) * np.exp(-np.arange(ir_len) / SR * 4.0)).astype(np.float32) * 0.02
+    ir[0] = 1.0
+    wet = np.fft.irfft(np.fft.rfft(out, n + ir_len) * np.fft.rfft(ir, n + ir_len), n + ir_len)[:n].astype(np.float32)
+    return lp_fast(wet, 3200)
+
+
 def place(buf, clip, at):
     a = int(at * SR)
     if a < 0:
@@ -114,7 +151,8 @@ def main():
     act = voice[np.abs(voice) > 0.02]
     voice = voice * (0.12 / (np.sqrt(np.mean(act ** 2)) + 1e-9))
 
-    music = pad(n, seed=int(key[1:])) + pulse(n)
+    style = sc.get('music', 'pad')
+    music = (0.35 * pad(n, seed=int(key[1:])) + piano(n, seed=int(key[1:]))) if style == 'piano' else pad(n, seed=int(key[1:])) + pulse(n)
     # Duck the music under the voice (fast attack, slow release).
     env = np.abs(voice)
     k = int(0.05 * SR)
@@ -122,14 +160,15 @@ def main():
     env = env / (env.max() + 1e-9)
     duck = 1 - 0.55 * np.clip(env * 3, 0, 1)
     duck = onepole_lp(duck.astype(np.float32), 6)
-    music *= duck * 0.17
+    music *= duck * (0.085 if style == 'piano' else 0.17)
 
     sfx = np.zeros(n, np.float32)
     phrases = data["phrases"]
     cuts = [phrases[p]["s"] - 0.1 for p in sc["scenes"][1:]]
-    for i, c in enumerate(cuts):
-        place(sfx, whoosh(i), c - 0.3)
-    place(sfx, sub_hit(), 0.0)
+    if style != 'piano':
+        for i, c in enumerate(cuts):
+            place(sfx, whoosh(i), c - 0.3)
+        place(sfx, sub_hit(), 0.0)
 
     # Short fades so the loop restarts cleanly.
     fade = int(0.04 * SR)

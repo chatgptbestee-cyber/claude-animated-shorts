@@ -17,6 +17,16 @@ import {V7} from './videos/V7';
 import {V8} from './videos/V8';
 import {V9} from './videos/V9';
 import {V10} from './videos/V10';
+import {V11} from './videos/V11';
+import d11 from './data/v11.json';
+import {V12} from './videos/V12';
+import d12 from './data/v12.json';
+import {V13} from './videos/V13';
+import d13 from './data/v13.json';
+import {V14} from './videos/V14';
+import d14 from './data/v14.json';
+import {V15} from './videos/V15';
+import d15 from './data/v15.json';
 import d6 from './data/v6.json';
 import d7 from './data/v7.json';
 import d8 from './data/v8.json';
@@ -34,6 +44,11 @@ const list: [string, React.FC<{d: Data; sc: Script}>, Data, Script][] = [
   ['V8', V8, d8 as Data, scripts.v8],
   ['V9', V9, d9 as Data, scripts.v9],
   ['V10', V10, d10 as Data, scripts.v10],
+  ['V11', V11, d11 as Data, (scripts as any).v11],
+  ['V12', V12, d12 as Data, (scripts as any).v12],
+  ['V13', V13, d13 as Data, (scripts as any).v13],
+  ['V14', V14, d14 as Data, (scripts as any).v14],
+  ['V15', V15, d15 as Data, (scripts as any).v15],
 ];
 
 export const Root: React.FC = () => (

@@ -1,0 +1,579 @@
+{
+ "key": "v12",
+ "slug": "juengeres-ich",
+ "duration": 28.291,
+ "phrases": [
+  {
+   "text": "Dein achtjähriges Ich wäre heute stolz auf dich.",
+   "s": 0.05,
+   "e": 2.87
+  },
+  {
+   "text": "Du bist jetzt so groß wie die, zu denen es immer hochgeschaut hat.",
+   "s": 3.33,
+   "e": 6.5
+  },
+  {
+   "text": "Du darfst aufbleiben, so lange du willst.",
+   "s": 6.78,
+   "e": 8.85
+  },
+  {
+   "text": "Du kannst Pizza zum Frühstück essen.",
+   "s": 8.85,
+   "e": 10.83
+  },
+  {
+   "text": "Niemand kann's dir verbieten.",
+   "s": 10.83,
+   "e": 12.18
+  },
+  {
+   "text": "Und trotzdem liegst du nachts wach und denkst, du bist nicht genug.",
+   "s": 12.63,
+   "e": 16.13
+  },
+  {
+   "text": "Dein achtjähriges Ich hat nie daran gezweifelt, dass aus dir was wird.",
+   "s": 17.74,
+   "e": 21.22
+  },
+  {
+   "text": "Es hat einfach an dich geglaubt.",
+   "s": 21.57,
+   "e": 23.03
+  },
+  {
+   "text": "Ganz ohne Beweis.",
+   "s": 23.61,
+   "e": 24.62
+  },
+  {
+   "text": "Also, wenn du heute zweifelst, denk dran:",
+   "s": 25.16,
+   "e": 27.88
+  }
+ ],
+ "words": [
+  {
+   "w": "Dein",
+   "s": 0.05,
+   "e": 0.26,
+   "p": 0
+  },
+  {
+   "w": "achtjähriges",
+   "s": 0.26,
+   "e": 1.0,
+   "p": 0
+  },
+  {
+   "w": "Ich",
+   "s": 1.0,
+   "e": 1.36,
+   "p": 0
+  },
+  {
+   "w": "wäre",
+   "s": 1.36,
+   "e": 1.74,
+   "p": 0
+  },
+  {
+   "w": "heute",
+   "s": 1.74,
+   "e": 2.1,
+   "p": 0
+  },
+  {
+   "w": "stolz",
+   "s": 2.1,
+   "e": 2.45,
+   "p": 0
+  },
+  {
+   "w": "auf",
+   "s": 2.45,
+   "e": 2.66,
+   "p": 0
+  },
+  {
+   "w": "dich.",
+   "s": 2.66,
+   "e": 2.87,
+   "p": 0
+  },
+  {
+   "w": "Du",
+   "s": 3.33,
+   "e": 3.59,
+   "p": 1
+  },
+  {
+   "w": "bist",
+   "s": 3.59,
+   "e": 3.76,
+   "p": 1
+  },
+  {
+   "w": "jetzt",
+   "s": 3.76,
+   "e": 3.88,
+   "p": 1
+  },
+  {
+   "w": "so",
+   "s": 3.88,
+   "e": 4.15,
+   "p": 1
+  },
+  {
+   "w": "groß",
+   "s": 4.15,
+   "e": 4.4,
+   "p": 1
+  },
+  {
+   "w": "wie",
+   "s": 4.4,
+   "e": 4.6,
+   "p": 1
+  },
+  {
+   "w": "die,",
+   "s": 4.6,
+   "e": 4.8,
+   "p": 1
+  },
+  {
+   "w": "zu",
+   "s": 4.8,
+   "e": 4.89,
+   "p": 1
+  },
+  {
+   "w": "denen",
+   "s": 4.89,
+   "e": 5.29,
+   "p": 1
+  },
+  {
+   "w": "es",
+   "s": 5.29,
+   "e": 5.46,
+   "p": 1
+  },
+  {
+   "w": "immer",
+   "s": 5.46,
+   "e": 5.76,
+   "p": 1
+  },
+  {
+   "w": "hochgeschaut",
+   "s": 5.76,
+   "e": 6.37,
+   "p": 1
+  },
+  {
+   "w": "hat.",
+   "s": 6.37,
+   "e": 6.5,
+   "p": 1
+  },
+  {
+   "w": "Du",
+   "s": 6.78,
+   "e": 7.07,
+   "p": 2
+  },
+  {
+   "w": "darfst",
+   "s": 7.07,
+   "e": 7.3,
+   "p": 2
+  },
+  {
+   "w": "aufbleiben,",
+   "s": 7.3,
+   "e": 7.77,
+   "p": 2
+  },
+  {
+   "w": "so",
+   "s": 7.77,
+   "e": 8.0,
+   "p": 2
+  },
+  {
+   "w": "lange",
+   "s": 8.0,
+   "e": 8.43,
+   "p": 2
+  },
+  {
+   "w": "du",
+   "s": 8.43,
+   "e": 8.62,
+   "p": 2
+  },
+  {
+   "w": "willst.",
+   "s": 8.62,
+   "e": 8.85,
+   "p": 2
+  },
+  {
+   "w": "Du",
+   "s": 8.85,
+   "e": 9.09,
+   "p": 3
+  },
+  {
+   "w": "kannst",
+   "s": 9.09,
+   "e": 9.42,
+   "p": 3
+  },
+  {
+   "w": "Pizza",
+   "s": 9.42,
+   "e": 9.66,
+   "p": 3
+  },
+  {
+   "w": "zum",
+   "s": 9.66,
+   "e": 9.89,
+   "p": 3
+  },
+  {
+   "w": "Frühstück",
+   "s": 9.89,
+   "e": 10.37,
+   "p": 3
+  },
+  {
+   "w": "essen.",
+   "s": 10.37,
+   "e": 10.83,
+   "p": 3
+  },
+  {
+   "w": "Niemand",
+   "s": 10.83,
+   "e": 11.11,
+   "p": 4
+  },
+  {
+   "w": "kann's",
+   "s": 11.11,
+   "e": 11.35,
+   "p": 4
+  },
+  {
+   "w": "dir",
+   "s": 11.35,
+   "e": 11.7,
+   "p": 4
+  },
+  {
+   "w": "verbieten.",
+   "s": 11.7,
+   "e": 12.18,
+   "p": 4
+  },
+  {
+   "w": "Und",
+   "s": 12.63,
+   "e": 12.81,
+   "p": 5
+  },
+  {
+   "w": "trotzdem",
+   "s": 12.81,
+   "e": 13.41,
+   "p": 5
+  },
+  {
+   "w": "liegst",
+   "s": 13.41,
+   "e": 13.54,
+   "p": 5
+  },
+  {
+   "w": "du",
+   "s": 13.54,
+   "e": 13.93,
+   "p": 5
+  },
+  {
+   "w": "nachts",
+   "s": 13.93,
+   "e": 14.2,
+   "p": 5
+  },
+  {
+   "w": "wach",
+   "s": 14.2,
+   "e": 14.38,
+   "p": 5
+  },
+  {
+   "w": "und",
+   "s": 14.38,
+   "e": 14.61,
+   "p": 5
+  },
+  {
+   "w": "denkst,",
+   "s": 14.61,
+   "e": 14.96,
+   "p": 5
+  },
+  {
+   "w": "du",
+   "s": 14.96,
+   "e": 15.14,
+   "p": 5
+  },
+  {
+   "w": "bist",
+   "s": 15.14,
+   "e": 15.45,
+   "p": 5
+  },
+  {
+   "w": "nicht",
+   "s": 15.45,
+   "e": 15.65,
+   "p": 5
+  },
+  {
+   "w": "genug.",
+   "s": 15.65,
+   "e": 16.13,
+   "p": 5
+  },
+  {
+   "w": "Dein",
+   "s": 17.74,
+   "e": 17.93,
+   "p": 6
+  },
+  {
+   "w": "achtjähriges",
+   "s": 17.93,
+   "e": 18.6,
+   "p": 6
+  },
+  {
+   "w": "Ich",
+   "s": 18.6,
+   "e": 18.82,
+   "p": 6
+  },
+  {
+   "w": "hat",
+   "s": 18.82,
+   "e": 19.02,
+   "p": 6
+  },
+  {
+   "w": "nie",
+   "s": 19.02,
+   "e": 19.32,
+   "p": 6
+  },
+  {
+   "w": "daran",
+   "s": 19.32,
+   "e": 19.69,
+   "p": 6
+  },
+  {
+   "w": "gezweifelt,",
+   "s": 19.69,
+   "e": 20.17,
+   "p": 6
+  },
+  {
+   "w": "dass",
+   "s": 20.17,
+   "e": 20.33,
+   "p": 6
+  },
+  {
+   "w": "aus",
+   "s": 20.33,
+   "e": 20.51,
+   "p": 6
+  },
+  {
+   "w": "dir",
+   "s": 20.51,
+   "e": 20.85,
+   "p": 6
+  },
+  {
+   "w": "was",
+   "s": 20.85,
+   "e": 21.05,
+   "p": 6
+  },
+  {
+   "w": "wird.",
+   "s": 21.05,
+   "e": 21.22,
+   "p": 6
+  },
+  {
+   "w": "Es",
+   "s": 21.57,
+   "e": 21.83,
+   "p": 7
+  },
+  {
+   "w": "hat",
+   "s": 21.83,
+   "e": 22.02,
+   "p": 7
+  },
+  {
+   "w": "einfach",
+   "s": 22.02,
+   "e": 22.36,
+   "p": 7
+  },
+  {
+   "w": "an",
+   "s": 22.36,
+   "e": 22.43,
+   "p": 7
+  },
+  {
+   "w": "dich",
+   "s": 22.43,
+   "e": 22.68,
+   "p": 7
+  },
+  {
+   "w": "geglaubt.",
+   "s": 22.68,
+   "e": 23.03,
+   "p": 7
+  },
+  {
+   "w": "Ganz",
+   "s": 23.61,
+   "e": 23.85,
+   "p": 8
+  },
+  {
+   "w": "ohne",
+   "s": 23.85,
+   "e": 24.24,
+   "p": 8
+  },
+  {
+   "w": "Beweis.",
+   "s": 24.24,
+   "e": 24.62,
+   "p": 8
+  },
+  {
+   "w": "Also,",
+   "s": 25.16,
+   "e": 25.55,
+   "p": 9
+  },
+  {
+   "w": "wenn",
+   "s": 25.83,
+   "e": 26.14,
+   "p": 9
+  },
+  {
+   "w": "du",
+   "s": 26.14,
+   "e": 26.28,
+   "p": 9
+  },
+  {
+   "w": "heute",
+   "s": 26.28,
+   "e": 26.77,
+   "p": 9
+  },
+  {
+   "w": "zweifelst,",
+   "s": 26.77,
+   "e": 27.17,
+   "p": 9
+  },
+  {
+   "w": "denk",
+   "s": 27.4,
+   "e": 27.58,
+   "p": 9
+  },
+  {
+   "w": "dran:",
+   "s": 27.58,
+   "e": 27.88,
+   "p": 9
+  }
+ ],
+ "asr": [
+  {
+   "s": 0.05,
+   "e": 2.87,
+   "text": "Dein achtjähriges Ich wäre heute Spals auf dich."
+  },
+  {
+   "s": 3.33,
+   "e": 6.5,
+   "text": "Du bist jetzt so groß wie die, zu denen es immer hoch geschaut hat."
+  },
+  {
+   "s": 6.78,
+   "e": 12.18,
+   "text": "Du darfst aufbleiben, solange du willst. Du kannst Pizza zum Frühstück essen. Niemand kannst dir verbieten."
+  },
+  {
+   "s": 12.63,
+   "e": 16.13,
+   "text": "Und trotzdem liegst du nachts wach und denkst, du bist nicht genug."
+  },
+  {
+   "s": 17.740000000000002,
+   "e": 21.22,
+   "text": "Dein achtjähriges Ich hat nie daran gezweifelt, dass aus dir was wird."
+  },
+  {
+   "s": 21.57,
+   "e": 23.03,
+   "text": "Es hat einfach an dich geglaubt."
+  },
+  {
+   "s": 23.61,
+   "e": 24.62,
+   "text": "ganz ohne Beweis."
+  },
+  {
+   "s": 25.16,
+   "e": 25.55,
+   "text": "Also..."
+  },
+  {
+   "s": 25.830000000000002,
+   "e": 27.17,
+   "text": "Wenn du heute zweifelst."
+  },
+  {
+   "s": 27.400000000000002,
+   "e": 27.88,
+   "text": "Denkt dran!"
+  }
+ ]
+}
