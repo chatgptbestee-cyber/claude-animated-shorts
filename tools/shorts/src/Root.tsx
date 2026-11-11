@@ -26,6 +26,8 @@ import d13 from './data/v13.json';
 import {V14} from './videos/V14';
 import d14 from './data/v14.json';
 import {V15} from './videos/V15';
+import {V16} from './videos/V16';
+import d16 from './data/v16.json';
 import d15 from './data/v15.json';
 import d6 from './data/v6.json';
 import d7 from './data/v7.json';
@@ -49,6 +51,7 @@ const list: [string, React.FC<{d: Data; sc: Script}>, Data, Script][] = [
   ['V13', V13, d13 as Data, (scripts as any).v13],
   ['V14', V14, d14 as Data, (scripts as any).v14],
   ['V15', V15, d15 as Data, (scripts as any).v15],
+  ['V16', V16, d16 as Data, (scripts as any).v16],
 ];
 
 export const Root: React.FC = () => (

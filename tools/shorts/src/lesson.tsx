@@ -11,7 +11,7 @@ const WX = (W - WW) / 2;
 const WY = 900 - WH / 2;
 
 /** Superellipse outline of the window (window coordinates). */
-const squircle = (() => {
+export const squircle = (() => {
   const n = 4.6, a = WW / 2, b = WH / 2, pts: string[] = [];
   for (let i = 0; i <= 160; i++) {
     const th = (i / 160) * Math.PI * 2;

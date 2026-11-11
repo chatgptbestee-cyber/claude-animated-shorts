@@ -424,5 +424,31 @@
       8,
       9
     ]
+  },
+  "v16": {
+    "slug": "fuenf-leute",
+    "audio": "neh",
+    "label": "",
+    "music": "piano",
+    "phrases": [
+      "Du warst garantiert einer von diesen fünf.",
+      "Nummer eins: der Klassenclown.",
+      "Nummer zwei: die, die immer alles wusste.",
+      "Nummer drei: der ohne Hausaufgaben, aber mit Ausrede.",
+      "Nummer vier: die, die jeden Streit geschlichtet hat.",
+      "Und Nummer fünf: die Person, die keiner bemerkt hat.",
+      "Und die heute noch an alle denkt.",
+      "Welche Nummer warst du?"
+    ],
+    "scenes": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ]
   }
 }
